@@ -422,7 +422,10 @@ footer div.center {
     section.marcas > .center {
         flex-wrap: nowrap;
         flex-direction: column;
+        margin: auto;
+        display: flex;
         align-items: center;
+        justify-content: center;
     }
 
     section.marcas img {
